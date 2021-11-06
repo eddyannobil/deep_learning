@@ -15,7 +15,7 @@ Data Preprocessing
 Compiling, Training and Evaluating the Model
 The number of neurons, layers, and activation functions I selected for my neural network model:
 * For my neural network model I had 2 hidden layers. My first layer had 80 neurons, the second has 30 there is also an output layer. The first and second hidden layer have the "relu" activation function and the activation function for the output layer is "sigmoid."
-![1](Images/1.png)
+![1](./Images/1.png)
 
 
 
