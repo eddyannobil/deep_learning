@@ -20,6 +20,18 @@ Was the model able to achieve the target model performance?
 The model was not able to reach the target 75%. The accuracy for my model was 73%
 ![a](/Images/a.PNG)
 
+Attempt 1: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 53%.
+
+![2](/Images/2.PNG)
+![b](/Images/b.PNG)
+
+Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 53%.
+![3](/Images/3.PNG)
+![c](/Images/c.PNG)
+
+Attempt 3: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 53%.
+![4](/Images/4.PNG)
+![d](/Images/d.PNG)
 
 
 Summary
